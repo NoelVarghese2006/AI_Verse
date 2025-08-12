@@ -5,8 +5,7 @@ import sys, json
 from google import genai
 from google.genai import types
 import pyautogui as pg
-import time
-import asyncio
+
 
 
 q = queue.Queue()
